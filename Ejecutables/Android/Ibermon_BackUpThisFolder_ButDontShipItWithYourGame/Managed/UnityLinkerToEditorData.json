@@ -126,6 +126,9 @@
             "name": "AudioClip",
             "scenes": [
               "Assets/Scenes/Combates/Combate.unity",
+              "Assets/Scenes/EscenasFinalesRutas/SalidaRuta1.unity",
+              "Assets/Scenes/Menus/MenuPrincipal.unity",
+              "Assets/Scenes/Menus/Opciones.unity",
               "Assets/Scenes/Menus/Partidas.unity",
               "Assets/Scenes/Menus/PortadaInicio.unity",
               "Assets/Scenes/Pueblos/Fuenlabrada/Interiores/CasaPersonaje.unity",
@@ -160,6 +163,7 @@
             "name": "AudioMixer",
             "scenes": [
               "Assets/Scenes/Combates/Combate.unity",
+              "Assets/Scenes/EscenasFinalesRutas/SalidaRuta1.unity",
               "Assets/Scenes/Menus/Partidas.unity",
               "Assets/Scenes/Menus/PortadaInicio.unity",
               "Assets/Scenes/Pueblos/Fuenlabrada/Interiores/CasaPersonaje.unity",
@@ -174,6 +178,7 @@
             "name": "AudioMixerGroup",
             "scenes": [
               "Assets/Scenes/Combates/Combate.unity",
+              "Assets/Scenes/EscenasFinalesRutas/SalidaRuta1.unity",
               "Assets/Scenes/Menus/Partidas.unity",
               "Assets/Scenes/Menus/PortadaInicio.unity",
               "Assets/Scenes/Pueblos/Fuenlabrada/Interiores/CasaPersonaje.unity",
@@ -188,6 +193,7 @@
             "name": "AudioMixerSnapshot",
             "scenes": [
               "Assets/Scenes/Combates/Combate.unity",
+              "Assets/Scenes/EscenasFinalesRutas/SalidaRuta1.unity",
               "Assets/Scenes/Menus/Partidas.unity",
               "Assets/Scenes/Menus/PortadaInicio.unity",
               "Assets/Scenes/Pueblos/Fuenlabrada/Interiores/CasaPersonaje.unity",
@@ -202,6 +208,9 @@
             "name": "AudioResource",
             "scenes": [
               "Assets/Scenes/Combates/Combate.unity",
+              "Assets/Scenes/EscenasFinalesRutas/SalidaRuta1.unity",
+              "Assets/Scenes/Menus/MenuPrincipal.unity",
+              "Assets/Scenes/Menus/Opciones.unity",
               "Assets/Scenes/Menus/Partidas.unity",
               "Assets/Scenes/Menus/PortadaInicio.unity",
               "Assets/Scenes/Pueblos/Fuenlabrada/Interiores/CasaPersonaje.unity",
@@ -216,6 +225,7 @@
             "name": "AudioSource",
             "scenes": [
               "Assets/Scenes/Combates/Combate.unity",
+              "Assets/Scenes/EscenasFinalesRutas/SalidaRuta1.unity",
               "Assets/Scenes/Menus/Partidas.unity",
               "Assets/Scenes/Menus/PortadaInicio.unity",
               "Assets/Scenes/Pueblos/Fuenlabrada/Interiores/CasaPersonaje.unity",

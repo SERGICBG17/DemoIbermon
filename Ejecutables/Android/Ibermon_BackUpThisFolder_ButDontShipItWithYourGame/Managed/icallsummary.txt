@@ -337,6 +337,7 @@ UnityEngine.AudioSource::PlayHelper_Injected
 UnityEngine.AudioSource::PlayOneShotHelper_Injected
 UnityEngine.AudioSource::SetPitch_Injected
 UnityEngine.AudioSource::Stop_Injected
+UnityEngine.AudioSource::set_playOnAwake_Injected
 UnityEngine.AudioSource::set_volume_Injected
 UnityEngine.Awaitable::IsNativeAwaitableCompleted
 UnityEngine.Awaitable::ReleaseNativeAwaitable
