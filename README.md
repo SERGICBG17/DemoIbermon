@@ -51,12 +51,15 @@ Para completar la demo exitosamente, deberás:
 
 ### Windows
 
-1. **Descarga** el juego desde la sección [Tags](https://github.com/SERGICBG17/DemoIbermon/releases/tag/Windows) o navega a la carpeta `Ejecutables/Windows`
+#### Opción A: Instalador
+1. **Descarga** el instalador desde la sección [Releases](https://github.com/SERGICBG17/DemoIbermon/releases/tag/Windows) o desde la carpeta `Ejecutables/Windows`
+2. **Ejecuta** el instalador (`.exe`) y sigue los pasos
+3. ¡Empieza a jugar!
 
-2. **Extrae** el archivo comprimido en la ubicación deseada
-
+#### Opción B: ZIP portable (sin instalación)
+1. **Descarga** el archivo `.zip` desde la sección [Releases](https://github.com/SERGICBG17/DemoIbermon/releases/tag/Windows) o desde la carpeta `Ejecutables/Windows`
+2. **Extrae** el contenido en la ubicación deseada
 3. **Ejecuta** el archivo `Ibermon.exe`
-
 4. ¡Empieza a jugar!
 
 > **Nota:** Si Windows Defender bloquea la ejecución, haz clic en "Más información" y luego en "Ejecutar de todas formas".
