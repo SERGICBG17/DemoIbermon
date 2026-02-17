@@ -51,7 +51,7 @@ Para completar la demo exitosamente, deberás:
 
 ### Windows
 
-1. **Descarga** el juego desde la sección [Releases](https://github.com/SERGICBG17/DemoIbermon/releases) o navega a la carpeta `Ejecutables/Windows`
+1. **Descarga** el juego desde la sección [Tags](https://github.com/SERGICBG17/DemoIbermon/releases/tag/Windows) o navega a la carpeta `Ejecutables/Windows`
 
 2. **Extrae** el archivo comprimido en la ubicación deseada
 
@@ -63,7 +63,7 @@ Para completar la demo exitosamente, deberás:
 
 ### Android
 
-1. **Descarga** el archivo `.apk` desde la carpeta `Ejecutables/Android` o desde [Releases](https://github.com/SERGICBG17/DemoIbermon/releases)
+1. **Descarga** el archivo `.apk` desde la carpeta `Ejecutables/Android` o desde [Tags](https://github.com/SERGICBG17/DemoIbermon/releases/tag/Android)
 
 2. **Habilita** la instalación de aplicaciones de orígenes desconocidos:
    - Ve a **Ajustes** → **Seguridad**
@@ -113,3 +113,8 @@ Para completar la demo exitosamente, deberás:
 
 Este proyecto es de código cerrado. Todos los derechos reservados.
 
+## Autores
+
+- Sergio Casín
+- [David Ballestero](https://github.com/Daaviidzz)
+- [Marcos Contreras](https://github.com/MarcosLuisVives)
